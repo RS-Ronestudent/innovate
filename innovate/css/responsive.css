@@ -1,0 +1,1481 @@
+
+@media (min-width:1201px) and (max-width: 1500px){
+
+    .people .next {
+        display: none !important;
+    }
+    .people .prev {
+        display: none !important;
+    }
+}
+/* ==============lg screen start========== */
+@media (min-width:992px) and (max-width: 1200px){
+    /* ===========navbar style start =================*/
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0 10px;
+    }
+
+    .navbar {
+        background-color: rgba(22, 13, 110);
+        position:static;
+    }
+
+    .navbar-nav .nav-item{
+        text-align: center;
+    }
+
+    /* ===========navbar style end =================*/
+    /*============ banner part start ===============*/
+    
+    #banner .overlay {
+        padding: 100px 0;
+    }
+
+    .banner-content h1 {
+        font-size: 60px;
+        line-height: 75px;
+    }
+
+    .banner-shap2 {
+        display: none;
+    }
+
+    .banner-shap1 {
+        display: none;
+    }
+
+    .banner-content p {
+        padding: 0 150px;
+    }
+    /*============ banner part end ===============*/
+    /*============ counter part start ===============*/
+
+    .counter-shap {
+        display: none;
+    }
+
+    #counter .item h3 {
+        font-size: 50px;
+        margin-bottom: 0px;
+    }
+
+    #counter .item p {
+        font-size: 30px;
+    }
+
+    #counter .item {
+        margin: 40px 0;
+    }
+
+    /*============ counter part end ===============*/
+    /*============ choose part start ===============*/
+
+    #choose {
+       padding-top: 100px;
+       padding-bottom: 70px;
+    }
+
+    .choose-shap {
+        display: none;
+    }
+
+    #choose .left{
+        margin-bottom: 50px;
+    }
+
+    #choose .left .item .text {
+        width: 100%;
+    }
+
+    #choose .left .item {
+        display: flex;
+        padding-left: 28px;
+        transition: .4s;
+        border-radius: 12px;
+        margin: 17px 0;
+    }
+
+    #choose .left .item .text p {
+	padding-right: 30px;
+}
+
+    #choose .left .item:hover {
+        padding-top: 22px;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    #choose .right h2 {
+        font-size: 40px;
+    }
+
+    #choose .right p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 0px;
+        margin: 25px 0;
+    }
+    /*============ choose part end ===============*/
+    /*============ about part start ===============*/
+
+    #about .title{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    #about .title h2 {
+        font-size: 40px;
+    }
+
+    #about .title p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 0px;
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .row-gap {
+        margin-top:20px;
+    }
+
+    #about .item h4 {
+        font-size: 25px;
+        margin-top: 15px;
+    }
+
+    #about .item p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-top: 10px;
+        transition: .4s;
+        padding: 0px 0px;
+    }
+
+    /*============ about part end ===============*/
+    /*============ create part end ===============*/
+
+    #create {
+        margin-top: 100px;
+        padding-bottom: 30px;
+    }
+
+    #create .create-shap {
+        display: none;
+    }
+
+    #create .title p {
+        font-size: 18px;
+        padding: 0 280px;
+    }
+
+    #create .left .img {
+        width: 20%;
+    }
+
+    #create .left .text {
+        width: 80%;
+    }
+
+    #create .left .text h3 {
+        font-size: 25px;
+    }
+
+    #create .left .text p {
+        font-size: 18px;
+        padding-right: 0px;
+    }
+
+    #create .right img{
+        width: 100%;
+    }
+    /*============ create part end ===============*/ 
+    /*============ right part start ===============*/
+
+    #right {
+        padding-bottom: 50px;
+        padding-top: 100px;
+    }
+
+    #right .title h2 {
+        font-size: 40px;
+    }
+
+    #right .item {
+        padding: 50px 0;
+    }
+
+    .item .text h3 {
+        font-size: 40px;
+    }
+    #right .item .title h3 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .item .text ul {
+        padding: 0 20px;
+        margin-top: 0px;
+    }
+    .item .text li {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    /*============ right part end ===============*/
+    /*============ people part end ===============*/
+
+    #people {
+        background-color: #F8F8FF;
+        padding: 70px 0;
+    }
+
+    #people .title {
+        margin-bottom: 0px;
+        
+    }
+
+    #people .title h2 {
+        font-size: 40px;
+    }
+
+    .people-item p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    .people-text h4 {
+        font-size: 25px;
+    }
+
+    .people-text p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .people-item {
+        padding: 65px 0px 20px 0px;
+    }
+
+    .people-item .star-img {
+        display: inline-block;
+        margin-top: 50px;
+        margin-bottom: 15px;
+        
+    }
+
+    .people .next {
+        display: none !important;
+    }
+    .people .prev {
+        display: none !important;
+    }
+    /*============ people part end ===============*/
+    /*============ like part start ===============*/
+
+    #like .title h2 {
+        font-size: 40px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    #like .text {
+        margin-left: 0px;
+        text-align:left ;
+    }
+
+    #like .text ul {
+        margin-top: 0px;
+        text-align:left;
+    }
+
+    #like .text h3 {
+        font-size: 28px;
+        line-height: 35px;
+        padding-right: 0px;
+    }
+
+    .like-img {
+        display: none;
+    }
+    /*============ like part end ===============*/
+    /*============ footer part start ===============*/
+    footer {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+
+    footer .logo p {
+        font-size: 20px;
+        margin-top: 35px;
+        padding-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    footer h4 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    footer ul li {
+        margin-bottom: 10px;
+    }
+
+    footer .support {
+        margin-left: 0px;
+    }
+
+    .copy-right {
+        margin-top: 40px;
+    }
+
+    .people-item p {
+        font-size: 20px;
+        line-height: 35px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+        padding: 0 177px;
+    }
+
+    .copy-right p span {
+        margin-right: 0px;
+    }
+    /*============ footer part end ===============*/
+
+}
+/* ==============lg screen end========== */
+/* ==============md screen start========== */
+@media (min-width:768px) and (max-width: 991px){
+    /* ===========navbar style start =================*/
+
+    .navbar {
+        background-color: rgba(22, 13, 110);
+        position:static;
+    }
+
+    .navbar-nav .nav-item{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .navbar-btn{
+        text-align: center;
+    }
+
+    /* ===========navbar style end =================*/
+    /*============ banner part start ===============*/
+    
+    #banner .overlay {
+        padding: 70px 0;
+    }
+
+    .banner-content h1 {
+        font-size: 50px;
+        line-height: 70px;
+    }
+
+    .banner-shap2 {
+        display: none;
+    }
+
+    .banner-shap1 {
+        display: none;
+    }
+
+    .banner-content p {
+        font-size: 20px;
+        line-height: 35px;
+        padding: 10px 0px;
+    }
+
+    .banner-btn a{
+        margin: 10px;
+    }
+    /*============ banner part end ===============*/
+    /*============ counter part start ===============*/
+
+    #counter {
+        padding: 70px 0;
+    }
+
+    .counter-shap {
+        display: none;
+    }
+
+    #counter .item h3 {
+        font-size: 50px;
+        margin-bottom: 0px;
+    }
+
+    #counter .item p {
+        font-size: 30px;
+    }
+
+    #counter .item {
+        margin: 40px 0;
+    }
+
+    #counter .item .border {
+        display: none;
+    }
+
+    /*============ counter part end ===============*/
+    /*============ choose part start ===============*/
+
+    #choose {
+        padding:70px 0px;   
+    }
+
+    .choose-shap {
+        display: none;
+    }
+
+    #choose .left{
+        margin-bottom: 50px;
+    }
+
+    #choose .left .item .text {
+        width: 100%;
+    }
+
+    #choose .left .item {
+        display: flex;
+        padding-left: 28px;
+        transition: .4s;
+        border-radius: 12px;
+        margin: 17px 0;
+    }
+
+    #choose .left .item:hover {
+        padding-top: 22px;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    #choose .right{
+        text-align: center;
+    }
+
+    #choose .right h2 {
+        font-size: 40px;
+    }
+
+    #choose .right p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 0px;
+        margin: 25px 0;
+    }
+    /*============ choose part end ===============*/
+    /*============ about part start ===============*/
+
+    #about{
+        padding: 70px 0;
+    }
+
+    #about .title{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    #about .title h2 {
+        font-size: 40px;
+    }
+
+    #about .title p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 0px;
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .row-gap {
+        margin-top:20px;
+    }
+
+    #about .item h4 {
+        font-size: 25px;
+        margin-top: 15px;
+    }
+
+    #about .item p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-top: 10px;
+        transition: .4s;
+        padding: 0px 0px;
+    }
+
+    /*============ about part end ===============*/
+    /*============ create part end ===============*/
+
+    #create {
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+
+    #create .create-shap {
+        display: none;
+    }
+
+    #create .title h2 {
+        font-size: 40px;
+    }
+
+    #create .title p {
+        font-size: 18px;
+        line-height: 30px;
+        padding: 0 0px;
+        margin-top: 20px;
+    }
+
+    #create .left {
+        display: block;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    #create .left .img {
+        width: 100%;
+    }
+
+    #create .left .text {
+        width: 100%;
+    }
+
+    #create .left .text h3 {
+        font-size: 25px;
+    }
+
+    #create .left .text p {
+        font-size: 18px;
+        padding-right: 0px;
+    }
+
+    #create .right img{
+        width: 100%;
+    }
+    /*============ create part end ===============*/ 
+    /*============ right part start ===============*/
+
+    #right {
+        padding-bottom: 0px;
+        padding-top: 60px;
+    }
+
+    #right .title h2 {
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+
+    #right .item {
+        padding: 10px 0;
+        margin-bottom: 0px;
+    }
+
+    .item .text h3 {
+        font-size: 30px;
+    }
+    #right .item .title h3 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .item .text ul {
+        padding: 0 20px;
+        margin-top: 0px;
+    }
+    .item .text li {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    /*============ right part end ===============*/
+    /*============ people part start ===============*/
+
+    #people {
+        background-color: #F8F8FF;
+        padding: 70px 0;
+    }
+
+    #people .title {
+        margin-bottom: 0px;
+        
+    }
+
+    #people .title h2 {
+        font-size: 40px;
+    }
+
+    .people-item p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    .people-text h4 {
+        font-size: 25px;
+    }
+
+    .people-text p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .people-item {
+        padding: 65px 0px 20px 0px;
+    }
+
+    .people-img {
+        top: -50px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .people .next {
+        display: none !important;
+    }
+
+    .people .prev {
+        display: none !important;
+    }
+    /*============ people part end ===============*/
+    /*============ like part start ===============*/
+    #like{
+        padding: 70px 0;
+    }
+
+    #like .title h2 {
+        font-size: 40px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    #like .text {
+        margin-left: 0px;
+        text-align:left ;
+    }
+
+    #like .text ul li {
+        font-size: 18px;
+    }
+
+    #like .text ul {
+        margin-top: 0px;
+        text-align:left;
+    }
+
+    #like .text h3 {
+        font-size: 25px;
+        line-height: 35px;
+        padding-right: 0px;
+        margin-bottom: 15px;
+    }
+
+    .like-img {
+        display: none;
+    }
+    /*============ like part end ===============*/
+    /*============ footer part start ===============*/
+    footer {
+        padding-top: 70px;
+        text-align: center;
+    }
+
+    footer .logo p {
+        font-size: 20px;
+        margin-top: 35px;
+        padding-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    footer h4 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    footer ul li {
+        margin-bottom: 10px;
+    }
+
+    footer .support {
+        margin-left: 0px;
+    }
+
+    .copy-right {
+        margin-top: 40px;
+        display: block;
+    }
+
+    .copy-right p {
+        font-family: var(--rear-font);
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 180%;
+        margin-bottom: 0px;
+    }
+
+    .copy-right p span {
+        margin-right: 0px;
+    }
+    /*============ footer part end ===============*/
+
+}
+/* ==============md screen end========== */
+/* ==============sm screen start========== */
+@media (min-width:576px) and (max-width: 767px){
+    /* ===========navbar style start =================*/
+
+    .navbar {
+        background-color: rgba(22, 13, 110);
+        position:static;
+    }
+
+    .navbar-nav .nav-item{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .navbar-btn{
+        text-align: center;
+    }
+
+    /* ===========navbar style end =================*/
+    /*============ banner part start ===============*/
+    
+    #banner .overlay {
+        padding: 70px 0;
+    }
+
+    .banner-content h1 {
+        font-size: 40px;
+        line-height: 58px;
+    }
+
+    .banner-shap2 {
+        display: none;
+    }
+
+    .banner-shap1 {
+        display: none;
+    }
+
+    .banner-content p {
+        font-size: 20px;
+        line-height: 35px;
+        padding: 10px 0px;
+    }
+
+    .banner-btn a{
+        margin: 10px;
+    }
+
+    .button {
+        font-size: 18px;
+        padding: 15px 30px;
+    }
+    /*============ banner part end ===============*/
+    /*============ counter part start ===============*/
+
+    #counter {
+        padding: 70px 0;
+    }
+
+    .counter-shap {
+        display: none;
+    }
+
+    #counter .item h3 {
+        font-size: 50px;
+        margin-bottom: 0px;
+    }
+
+    #counter .item p {
+        font-size: 30px;
+    }
+
+    #counter .item {
+        margin: 30px 0;
+    }
+
+    #counter .item .border {
+        display: none;
+    }
+
+    /*============ counter part end ===============*/
+    /*============ choose part start ===============*/
+
+    #choose {
+        padding:70px 0px;   
+    }
+
+    .choose-shap {
+        display: none;
+    }
+
+    #choose .left{
+        margin-bottom: 50px;
+    }
+
+    #choose .left .item .text {
+        width: 100%;
+    }
+
+    #choose .left .item .text p {
+        font-size: 16px;
+        line-height: 30px;
+        padding-right: 0px;
+    }
+
+    #choose .left .item {
+        display: block;
+        padding-left: 0px;
+        margin:0px;
+        padding-left: 20px;
+    }
+
+    #choose .left .item:hover {
+        padding-top: 22px;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    #choose .right{
+        text-align: center;
+    }
+
+    #choose .right h2 {
+        font-size: 40px;
+    }
+
+    #choose .right p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 0px;
+        margin: 25px 0;
+    }
+    /*============ choose part end ===============*/
+    /*============ about part start ===============*/
+
+    #about{
+        padding: 70px 0;
+    }
+
+    #about .title{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    #about .title h2 {
+        font-size: 40px;
+    }
+
+    #about .title p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 0px;
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .row-gap {
+        margin-top:0px;
+    }
+
+    #about .item {
+        padding: 20px 10px ;
+        margin: 12px 0;
+    }
+
+    #about .item h4 {
+        font-size: 25px;
+        margin-top: 15px;
+    }
+
+    #about .item p {
+        font-size: 18px;
+        line-height: 25px;
+        margin-top: 10px;
+        transition: .4s;
+        padding: 0px 0px;
+    }
+
+    /*============ about part end ===============*/
+    /*============ create part end ===============*/
+
+    #create {
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+
+    #create .create-shap {
+        display: none;
+    }
+
+    #create .title h2 {
+        font-size: 40px;
+    }
+
+    #create .title p {
+        font-size: 18px;
+        line-height: 30px;
+        padding: 0 0px;
+        margin-top: 20px;
+    }
+
+    #create .left {
+        display: block;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    #create .left .img {
+        width: 100%;
+    }
+
+    #create .left .text {
+        width: 100%;
+    }
+
+    #create .left .text h3 {
+        font-size: 25px;
+    }
+
+    #create .left .text p {
+        font-size: 18px;
+        padding-right: 0px;
+    }
+
+    #create .right img{
+        width: 100%;
+    }
+    /*============ create part end ===============*/ 
+    /*============ right part start ===============*/
+
+    #right {
+        padding-bottom: 0px;
+        padding-top: 60px;
+    }
+
+    #right .title h2 {
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+
+    #right .item {
+        padding: 20px 0;
+        margin-bottom: 20px;
+    }
+
+    .item .text h3 {
+        font-size: 40px;
+    }
+    /*============ right part end ===============*/
+    /*============ people part start ===============*/
+
+    #people {
+        background-color: #F8F8FF;
+        padding: 70px 0;
+    }
+
+    #people .title {
+        margin-bottom: 0px;
+        
+    }
+
+    #people .title h2 {
+        font-size: 40px;
+    }
+
+    .people-item p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    .people-text h4 {
+        font-size: 25px;
+    }
+
+    .people-text p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .people-item {
+        padding: 65px 0px 20px 0px;
+    }
+
+    .people-img {
+        top: -50px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .people .next {
+        display: none !important;
+    }
+
+    .people .prev {
+        display: none !important;
+    }
+    /*============ people part end ===============*/
+    /*============ like part start ===============*/
+    #like{
+        padding: 70px 0;
+    }
+
+    #like .title h2 {
+        font-size: 40px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    #like .text {
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    #like .text ul li {
+        font-size: 20px;
+    }
+
+    #like .text ul {
+        display: block;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    #like .text h3 {
+        font-size: 30px;
+        line-height: 35px;
+        padding-right: 0px;
+        margin-bottom: 25px;
+    }
+
+    .like-img {
+        display: none;
+    }
+    /*============ like part end ===============*/
+    /*============ footer part start ===============*/
+    footer {
+        padding-top: 70px;
+        text-align: center;
+    }
+
+    footer .logo p {
+        font-size: 20px;
+        margin-top: 35px;
+        padding-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    footer h4 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    footer ul li {
+        margin-bottom: 10px;
+    }
+
+    footer .support {
+        margin-left: 0px;
+    }
+
+    .copy-right {
+        margin-top: 40px;
+        display: block;
+    }
+
+    .copy-right p {
+        font-family: var(--rear-font);
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 180%;
+        margin-bottom: 0px;
+    }
+
+    .copy-right p span {
+        margin-right: 0px;
+    }
+    /*============ footer part end ===============*/
+
+}
+/* ==============sm screen end========== */
+/* ==============ex sm screen end========== */
+@media (max-width: 575px){
+    /* ===========navbar style start =================*/
+
+    .navbar {
+        background-color: rgba(22, 13, 110);
+        position:static;
+    }
+
+    .navbar-nav .nav-item{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .navbar-btn{
+        text-align: center;
+    }
+
+    /* ===========navbar style end =================*/
+    /*============ banner part start ===============*/
+    
+    #banner .overlay {
+        padding: 70px 0;
+    }
+
+    .banner-content h1 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .banner-shap2 {
+        display: none;
+    }
+
+    .banner-shap1 {
+        display: none;
+    }
+
+    .banner-content p {
+        font-size: 16px;
+        line-height: 35px;
+        padding: 0 0px;
+    }
+
+    .banner-btn a{
+        margin: 0;
+    }
+
+    .button {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+    /*============ banner part end ===============*/
+    /*============ counter part start ===============*/
+
+    #counter {
+        padding: 70px 0;
+    }
+
+    .counter-shap {
+        display: none;
+    }
+
+    #counter .item h3 {
+        font-size: 50px;
+        margin-bottom: 0px;
+    }
+
+    #counter .item p {
+        font-size: 30px;
+    }
+
+    #counter .item {
+        margin: 15px 0;
+    }
+
+    #counter .item .border {
+        display: none;
+    }
+
+    /*============ counter part end ===============*/
+    /*============ choose part start ===============*/
+
+    #choose {
+        padding:70px 0px;   
+    }
+
+    .choose-shap {
+        display: none;
+    }
+
+    #choose .left{
+        margin-bottom: 50px;
+    }
+
+    #choose .left .item .text {
+        width: 100%;
+    }
+
+    #choose .left .item .text p {
+        font-size: 14px;
+        line-height: 30px;
+        padding-right: 0px;
+    }
+
+    #choose .left .item {
+        display: block;
+        padding-left: 0px;
+        margin:0px;
+        padding-left: 20px;
+    }
+
+    #choose .left .item:hover {
+        padding-top: 22px;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    #choose .right{
+        text-align: center;
+    }
+
+    #choose .right h2 {
+        font-size: 35px;
+    }
+
+    #choose .right p {
+        font-size: 16px;
+        line-height: 30px;
+        padding-right: 0px;
+        margin: 20px 0;
+    }
+    /*============ choose part end ===============*/
+    /*============ about part start ===============*/
+
+    #about{
+        padding: 70px 0;
+    }
+
+    #about .title{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    #about .title h2 {
+        font-size: 35px;
+    }
+
+    #about .title p {
+        font-size: 16px;
+        line-height: 30px;
+        padding-right: 0px;
+        margin: 20px 0;
+    }
+
+    .row-gap {
+        margin-top:0px;
+    }
+
+    #about .item {
+        padding: 20px 10px ;
+        margin: 20px 0;
+    }
+
+    #about .item h4 {
+        font-size: 25px;
+        margin-top: 15px;
+    }
+
+    #about .item p {
+        font-size: 16px;
+        line-height: 30px;
+        margin-top: 10px;
+        transition: .4s;
+        padding: 0px 0px;
+    }
+
+    /*============ about part end ===============*/
+    /*============ create part end ===============*/
+
+    #create {
+        padding: 70px 0;
+    }
+
+    #create .create-shap {
+        display: none;
+    }
+
+    #create .title h2 {
+        font-size: 35px;
+    }
+
+    #create .title p {
+        font-size: 16px;
+        line-height: 30px;
+        padding: 0 0px;
+        margin-top: 20px;
+    }
+
+    #create .left {
+        display: block;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    #create .left .img {
+        width: 100%;
+    }
+
+    #create .left .text {
+        width: 100%;
+    }
+
+    #create .left .text h3 {
+        font-size: 25px;
+    }
+
+    #create .left .text p {
+        font-size: 16px;
+        padding-right: 0px;
+    }
+
+    #create .right img{
+        width: 100%;
+    }
+    /*============ create part end ===============*/ 
+    /*============ right part start ===============*/
+
+    #right {
+        padding-bottom: 0px;
+        padding-top: 30px;
+    }
+
+    #right .title h2 {
+        font-size: 35px;
+        margin-bottom: 40px;
+    }
+
+    #right .item {
+        padding: 20px 0;
+        margin-bottom: 20px;
+    }
+
+    .item .text h3 {
+        font-size: 40px;
+    }
+    /*============ right part end ===============*/
+    /*============ people part end ===============*/
+
+    #people {
+        background-color: #F8F8FF;
+        padding: 70px 0;
+    }
+
+    #people .title {
+        margin-bottom: 0px;
+        
+    }
+
+    #people .title h2 {
+        font-size: 35px;
+    }
+
+    .people-item p {
+        font-size: 14px;
+        line-height: 30px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    .people-text h4 {
+        font-size: 20px;
+    }
+
+    .people-text p {
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    .people-item {
+        padding: 65px 0px 20px 0px;
+    }
+
+    .people-img {
+        top: -50px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .people .next {
+        display: none !important;
+    }
+    .people .next {
+        display: none !important;
+    }
+    /*============ people part end ===============*/
+    /*============ like part start ===============*/
+    #like{
+        padding: 40px 0;
+    }
+
+    #like .title h2 {
+        font-size: 35px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    #like .text {
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    #like .text ul {
+        display: block;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    #like .text h3 {
+        font-size: 25px;
+        line-height: 35px;
+        padding-right: 0px;
+    }
+
+    .like-img {
+        display: none;
+    }
+    /*============ like part end ===============*/
+    /*============ footer part start ===============*/
+    footer {
+        padding-top: 70px;
+        text-align: center;
+    }
+
+    footer .logo p {
+        font-size: 18px;
+        margin-top: 35px;
+        padding-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    footer h4 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    footer ul li {
+        margin-bottom: 10px;
+    }
+
+    footer .support {
+        margin-left: 0px;
+    }
+
+    .copy-right {
+        margin-top: 40px;
+        display: block;
+    }
+
+    .copy-right p {
+        font-family: var(--rear-font);
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 180%;
+        margin-bottom: 0px;
+    }
+
+    .copy-right p span {
+        margin-right: 0px;
+    }
+    /*============ footer part end ===============*/
+
+}
+/* ==============ex sm screen end========== */
